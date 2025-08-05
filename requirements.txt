@@ -8,5 +8,4 @@ pydantic-settings>=2.1.0
 python-dotenv>=1.1.1
 structlog>=25.4.0
 uvicorn>=0.35.0
-# If you want coinbase-advanced-py as a client lib:
 coinbase-advanced-py>=1.8.2
